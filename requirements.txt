@@ -1,0 +1,8 @@
+torch
+torchvision
+kornia
+tqdm
+clip-anytorch
+requests
+lpips
+wandb
